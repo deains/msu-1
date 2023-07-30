@@ -1,0 +1,341 @@
+{
+    "$schema": "https://raw.githubusercontent.com/qwertymodo/msupcmplusplus/master/configs/schema#",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "pack": "Final Fantasy Tactics Advance",
+    "artist": "Hitoshi Sakamoto, Kaori Okoshi, Ayako Sasou, Nobuo Uematsu",
+    "url": "https://github.com/deains/msu-1/ffta",
+    "output_prefix": "ffta",
+    "normalization": -18,
+    "tracks": [
+        {
+            "track_number": 1,
+            "title": "Main Theme",
+            "file": "ffta-ost\\Disc 1 - 01 - Main Theme.mp3",
+            "trim_end": 831842,
+            "fade_out": 150000
+        },
+        {
+            "track_number": 2,
+            "title": "Ivalice, the Other World",
+            "file": "ffta-ost\\Disc 1 - 10 - Different World Ivalice.mp3",
+            "trim_end": 2173723,
+            "loop": 757434
+        },
+        {
+            "track_number": 3,
+            "title": "Sleep of Defeat",
+            "file": "ffta-ost\\Disc 1 - 22 - Sleep of Defeat.mp3",
+            "trim_end": 1628604,
+            "loop": 352760,
+            "normalization": -22
+        },
+        {
+            "track_number": 4,
+            "title": "Teach Me, Montblanc",
+            "file": "ffta-ost\\Disc 1 - 15 - Teach Me, Mont Blanc.mp3",
+            "trim_end": 2646036,
+            "loop": 0
+        },
+        {
+            "track_number": 5,
+            "title": "The World is Changing",
+            "file": "sound-files\\song048.wav",
+            "loop": 0,
+            "normalization": -20
+        },
+        {
+            "track_number": 6,
+            "title": "Sleep of Defeat",
+            "file": "ffta-ost\\Disc 1 - 22 - Sleep of Defeat.mp3",
+            "trim_end": 1628604,
+            "loop": 352760,
+            "normalization": -22
+        },
+        {
+            "track_number": 7,
+            "title": "Monster Farm",
+            "file": "ffta-ost\\Disc 1 - 04 - Magic Beast Farm.mp3",
+            "trim_start": 22050,
+            "trim_end": 4339652,
+            "loop": 29283,
+            "normalization": -16
+        },
+        {
+            "track_number": 8,
+            "title": "Level Up",
+            "file": "ffta-ost\\Disc 1 - 28 - Level Up.mp3",
+            "trim_start": 13230,
+            "normalization": -26
+        },
+        {
+            "track_number": 9,
+            "title": "In the Amber Valley",
+            "file": "ffta-ost\\Disc 1 - 07 - Amber Valley.mp3",
+            "trim_end": 4709248,
+            "loop": 32424
+        },
+        {
+            "track_number": 10,
+            "title": "Gained Fruit",
+            "file": "ffta-ost\\Disc 1 - 18 - Gained Fruit.mp3",
+            "trim_start": 17640,
+            "normalization": -20
+        },
+        {
+            "track_number": 11,
+            "title": "Data Screen",
+            "file": "zophar\\91 Data Screen.flac",
+            "trim_end": 4056404,
+            "loop": 0,
+            "normalization": -22
+        },
+        {
+            "track_number": 12,
+            "title": "The World Starting to Move",
+            "file": "ffta-ost\\Disc 1 - 37 - The World Starting to Move.mp3",
+            "trim_end": 3062451,
+            "loop": 22224
+        },
+        {
+            "track_number": 13,
+            "title": "Beyond the Wasteland",
+            "file": "ffta-ost\\Disc 1 - 36 - Beyond the Wasteland.mp3",
+            "trim_end": 3100812,
+            "loop": 22739
+        },
+        {
+            "track_number": 14,
+            "title": "Law Card",
+            "file": "ffta-ost\\Disc 1 - 29 - Law Card.mp3",
+            "trim_start": 17640,
+            "trim_end": 3186572,
+            "loop": 653993,
+            "normalization": -17
+        },
+        {
+            "track_number": 15,
+            "title": "Mewt",
+            "file": "ffta-ost\\Disc 1 - 26 - Mewt.mp3",
+            "trim_end": 3481704,
+            "loop": 22835
+        },
+        {
+            "track_number": 16,
+            "title": "Prison",
+            "file": "ffta-ost\\Disc 1 - 23 - Prison.mp3",
+            "trim_end": 3802782,
+            "loop": 22024
+        },
+        {
+            "track_number": 17,
+            "title": "Walking in Ivalice",
+            "file": "ffta-ost\\Disc 1 - 13 - Walking in Ivalice.mp3",
+            "trim_end": 3483336,
+            "loop": 23908,
+            "normalization": -20
+        },
+        {
+            "track_number": 18,
+            "title": "Ritz",
+            "file": "ffta-ost\\Disc 1 - 30 - Ritz.mp3",
+            "trim_start": 22050,
+            "trim_end": 3878355,
+            "loop": 24588
+        },
+        {
+            "track_number": 19,
+            "title": "Wind of Liberation",
+            "file": "ffta-ost\\Disc 1 - 33 - Wind of Liberation.mp3",
+            "trim_start": 17640
+        },
+        {
+            "track_number": 20,
+            "title": "Crystal",
+            "file": "ffta-ost\\Disc 1 - 05 - Crystal.mp3",
+            "trim_end": 3029679,
+            "loop": 29679
+        },
+        {
+            "track_number": 21,
+            "title": "Overcoming the Wall",
+            "file": "ffta-ost\\Disc 1 - 24 - Surpassing the Wall.mp3",
+            "trim_end": 3081845,
+            "loop": 168455
+        },
+        {
+            "track_number": 22,
+            "title": "Undefeated Heart",
+            "file": "ffta-ost\\Disc 1 - 17 - Undefeated Heart.mp3",
+            "trim_end": 3413799,
+            "loop": 514252
+        },
+        {
+            "track_number": 23,
+            "title": "Mysterious Shop",
+            "file": "ffta-ost\\Disc 1 - 31 - Mysterious Shop.mp3",
+            "trim_start": 17640,
+            "trim_end": 2401194,
+            "loop": 23711,
+            "normalization": -16
+        },
+        {
+            "track_number": 24,
+            "title": "Marche",
+            "file": "ffta-ost\\Disc 1 - 19 - Marche.mp3",
+            "trim_start": 22050,
+            "trim_end": 2153552,
+            "loop": 25977
+        },
+        {
+            "track_number": 25,
+            "title": "Crystal",
+            "file": "ffta-ost\\Disc 1 - 05 - Crystal.mp3",
+            "trim_end": 3029679,
+            "loop": 29679
+        },
+        {
+            "track_number": 26,
+            "title": "Judge",
+            "file": "ffta-ost\\Disc 1 - 35 - Judge.mp3",
+            "trim_start": 17640,
+            "normalization": -20
+        },
+        {
+            "track_number": 27,
+            "title": "At the Pub",
+            "file": "ffta-ost\\Disc 1 - 09 - At the Bar.mp3",
+            "trim_end": 3036553,
+            "loop": 23789
+        },
+        {
+            "track_number": 28,
+            "title": "The World Starting to Move",
+            "file": "ffta-ost\\Disc 1 - 37 - The World Starting to Move.mp3",
+            "trim_end": 3062451,
+            "loop": 22224
+        },
+        {
+            "track_number": 29,
+            "title": "Wounded Ally",
+            "file": "ffta-ost\\Disc 1 - 16 - Wounded Comrades.mp3",
+            "normalization": -20
+        },
+        {
+            "track_number": 30,
+            "title": "Engage",
+            "file": "ffta-ost\\Disc 1 - 11 - Engage.mp3",
+            "normalization": -22
+        },
+        {
+            "track_number": 31,
+            "title": "Incarnation",
+            "file": "ffta-ost\\Disc 1 - 39 - Incarnation.mp3",
+            "trim_end": 4594953,
+            "loop": 306529
+        },
+        {
+            "track_number": 32,
+            "title": "Main Theme (alternate)",
+            "file": "sound-files\\song013.wav",
+            "trim_end": 2480676,
+            "loop": 12006,
+            "normalization": -24
+        },
+        {
+            "track_number": 33,
+            "title": "Vanishing World / The Place We Should Return To",
+            "file": "ffta-ost\\Disc 1 - 40 - Vanishing World.mp3",
+            "sub_tracks": [
+                {
+                    "file": "ffta-ost\\Disc 1 - 40 - Vanishing World.mp3",
+                    "trim_start": 23904,
+                    "trim_end": 5425293
+                },
+                {
+                    "file": "ffta-ost\\Disc 1 - 41 - A Place We Should Return To.mp3",
+                    "trim_end": 4718953,
+                    "fade_out": 66150
+                }
+            ]
+        },
+        {
+            "track_number": 34,
+            "title": "Fragments of a Fulfilled Dream / Main Theme",
+            "sub_tracks": [
+                {
+                    "file": "ffta-ost\\Disc 1 - 42 - Fulfilled Dream Segment.mp3",
+                    "trim_start": 22456,
+                    "trim_end": 7569053
+                },
+                {
+                    "file": "ffta-ost\\Disc 1 - 01 - Main Theme.mp3",
+                    "trim_end": 2750000,
+                    "fade_out": 160000
+                }
+            ]
+        },
+        {
+            "track_number": 37,
+            "title": "Disorientation",
+            "file": "ffta-ost\\Disc 1 - 34 - Confusion.mp3",
+            "trim_end": 3668991,
+            "loop": 22107
+        },
+        {
+            "track_number": 38,
+            "title": "Companions that Surpassed Their Races",
+            "file": "ffta-ost\\Disc 1 - 03 - Companions That Surpassed Their Tribe.mp3",
+            "trim_end": 3983937,
+            "loop": 34268
+        },
+        {
+            "track_number": 40,
+            "title": "Battle for Hope",
+            "file": "ffta-ost\\Disc 1 - 27 - Battle of Hope.mp3",
+            "trim_end": 4755767,
+            "loop": 427929
+        },
+        {
+            "track_number": 41,
+            "title": "Unhideable Anxiety",
+            "file": "ffta-ost\\Disc 1 - 06 - Unhideable Anxiety.mp3",
+            "trim_end": 4142163,
+            "loop": 55495
+        },
+        {
+            "track_number": 42,
+            "title": "Snow Dancing in the Schoolyard",
+            "file": "ffta-ost\\Disc 1 - 02 - Snow Dancing in the Schoolyard.mp3",
+            "trim_end": 2937358,
+            "loop": 51816
+        },
+        {
+            "track_number": 43,
+            "title": "Unavoidable Destiny",
+            "file": "ffta-ost\\Disc 1 - 38 - Unavoidable Destiny.mp3",
+            "trim_end": 3474214,
+            "loop": 478728
+        },
+        {
+            "track_number": 44,
+            "title": "Gathering Allies",
+            "file": "ffta-ost\\Disc 1 - 12 - Gathering Allies.mp3",
+            "trim_end": 2536250,
+            "loop": 215816
+        },
+        {
+            "track_number": 45,
+            "title": "Tough Battle",
+            "file": "ffta-ost\\Disc 1 - 20 - Painful Battle.mp3",
+            "trim_end": 4704035,
+            "loop": 136634
+        },
+        {
+            "track_number": 46,
+            "title": "The Road We Aim for Together",
+            "file": "ffta-ost\\Disc 1 - 32 - The Road We Both Aim For.mp3",
+            "trim_end": 4327701,
+            "loop": 43021
+        }
+    ]
+}
