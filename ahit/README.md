@@ -1,7 +1,6 @@
 # A Hat in Time MSU-1 pack
 
 An expanded fork of Fouton's MSU with added tracks and updated dungeons.
-Expanded fork of Fouton's MSU with added tracks and updated dungeons
 
 This pack requires the following Steam purchases:
   * https://store.steampowered.com/app/356831/A_Hat_in_Time__Soundtrack/
